@@ -1,0 +1,12 @@
+#sun {
+    background-color: #ff3d00;
+    color:#ffffff
+}
+#sat {
+    background-color: #661800;
+    color:#ffffff
+}
+#today {
+    font-weight: bold;
+    border: dotted 1px #333333;
+}
